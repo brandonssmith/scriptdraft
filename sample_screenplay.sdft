@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<sdft:screenplay xmlns:sdft="http://scriptdraft.app/sdft" version="1.0" format="industry-standard">
+  <sdft:metadata>
+    <sdft:title>The Coffee Shop Chronicles</sdft:title>
+    <sdft:author>Jane Smith</sdft:author>
+    <sdft:contact_info>123 Main Street&#10;Los Angeles, CA 90210&#10;Phone: (555) 123-4567&#10;Email: jane.smith@email.com</sdft:contact_info>
+  </sdft:metadata>
+  <sdft:content>
+    <sdft:element type="Scene Heading">
+      INT. COFFEE SHOP - DAY
+      <sdft:formatting>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>12</sdft:top_margin>
+        <sdft:bottom_margin>12</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>700</sdft:font_weight>
+          <sdft:font_capitalization>1</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Action">
+      Sarah sits at a corner table, typing furiously on her laptop. The coffee shop is bustling with activity.
+      <sdft:formatting>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>6</sdft:top_margin>
+        <sdft:bottom_margin>6</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>400</sdft:font_weight>
+          <sdft:font_capitalization>0</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Character">
+      SARAH
+      <sdft:formatting>
+        <sdft:left_margin>384</sdft:left_margin>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>12</sdft:top_margin>
+        <sdft:bottom_margin>6</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>700</sdft:font_weight>
+          <sdft:font_capitalization>1</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Dialogue">
+      (frustrated) I can't believe this deadline is tomorrow. Why did I procrastinate so much?
+      <sdft:formatting>
+        <sdft:left_margin>240</sdft:left_margin>
+        <sdft:right_margin>192</sdft:right_margin>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>6</sdft:top_margin>
+        <sdft:bottom_margin>6</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>400</sdft:font_weight>
+          <sdft:font_capitalization>0</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Character">
+      MIKE
+      <sdft:formatting>
+        <sdft:left_margin>384</sdft:left_margin>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>12</sdft:top_margin>
+        <sdft:bottom_margin>6</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>700</sdft:font_weight>
+          <sdft:font_capitalization>1</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Parenthetical">
+      (approaching with coffee)
+      <sdft:formatting>
+        <sdft:left_margin>336</sdft:left_margin>
+        <sdft:right_margin>240</sdft:right_margin>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>6</sdft:top_margin>
+        <sdft:bottom_margin>6</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>400</sdft:font_weight>
+          <sdft:font_capitalization>0</sdft:font_capitalization>
+          <sdft:font_italic>True</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Dialogue">
+      Need a refill? You look like you could use it.
+      <sdft:formatting>
+        <sdft:left_margin>240</sdft:left_margin>
+        <sdft:right_margin>192</sdft:right_margin>
+        <sdft:alignment>left</sdft:alignment>
+        <sdft:top_margin>6</sdft:top_margin>
+        <sdft:bottom_margin>6</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>400</sdft:font_weight>
+          <sdft:font_capitalization>0</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+    <sdft:element type="Transition">
+      FADE OUT
+      <sdft:formatting>
+        <sdft:alignment>right</sdft:alignment>
+        <sdft:top_margin>12</sdft:top_margin>
+        <sdft:bottom_margin>12</sdft:bottom_margin>
+        <sdft:character_format>
+          <sdft:font_weight>700</sdft:font_weight>
+          <sdft:font_capitalization>1</sdft:font_capitalization>
+          <sdft:font_italic>False</sdft:font_italic>
+        </sdft:character_format>
+      </sdft:formatting>
+    </sdft:element>
+  </sdft:content>
+</sdft:screenplay> 
